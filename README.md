@@ -1,5 +1,5 @@
 # Lesson 2: GuessIt:
-This is the third lesson of the Advanced Programming course with the following objectives:
+This is the second lesson of the Advanced Programming course with the following objectives:
 * i) Understand about the simplest game source code structure.
 * ii) Learn about the automated testing with github Actions.
 
