@@ -6,7 +6,7 @@ This is the second lesson of the Advanced Programming course with the following 
 You are required to implement several functions of GuessIt game. They could be done via the instructions as follows:
 
 * Step 1: Fork this repo to your own account
-* Step 2: Clone the forked repo to your local via the command: git clone https://github.com/[YOUR_USERNAME]/GuessIt.git
+* Step 2: Clone the forked repo to your local via the command: git clone https://github.com/[YOUR_USERNAME]/AdvProg_L1-GuessIt.git
 * Step 3: Modify the "guessit.cpp" file to complete the requirement.
 * Step 4: Commit & push the modified file using the command: git commit -m "[Insert_your_own_message]" & git push origin main
 * Step 5: Create a pull request:
